@@ -1,4 +1,4 @@
-1. 
+1. First Name, Last Name
 Anatoli Shykhantsou
 
 2. 
@@ -19,11 +19,12 @@ Being a leading developer is working on interesting projects. I am learn quickly
 - JavaScript
 - Adobe PS
 - Git
+- Bootstrap
 
 5. 
 # Code examples
-- 
-- 
+- https://github.com/Megape4enka/my-project.github.io
+- https://github.com/Megape4enka/my-project-forex.github.io
 
 6. 
 # Experience
