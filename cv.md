@@ -1,6 +1,7 @@
 1. First Name, Last Name
 Anatoli Shykhantsou
 
+<<<<<<< HEAD
 2. 
 # Contacts: 
 - 80259262300
