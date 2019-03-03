@@ -1,20 +1,20 @@
-1. First Name, Last Name
-Anatoli Shykhantsou
+1. 
+## First Name, Last Name
+- Anatoli Shykhantsou
 
-<<<<<<< HEAD
 2. 
-# Contacts: 
+## Contacts: 
 - 80259262300
 - mega.pe4enka@gmail.com
 - https://github.com/Megape4enka
 
 3. 
-# Summary 
+## Summary 
 My aim is make the world better.  Huge desire to become a leading developer. 
 Being a leading developer is working on interesting projects. I am learn quickly, always strive for new things. Independently approach to solving any problem. I can work in a team.
 
 4. 
-# Skills 
+## Skills 
 - CSS3
 - HTML5
 - JavaScript
@@ -23,20 +23,20 @@ Being a leading developer is working on interesting projects. I am learn quickly
 - Bootstrap
 
 5. 
-# Code examples
+## Code examples
 - https://github.com/Megape4enka/my-project.github.io
 - https://github.com/Megape4enka/my-project-forex.github.io
 
 6. 
-# Experience
+## Experience
 - Inractive courses https://htmlacademy.ru/profile/id583629/achievements 
 - Inractive courses https://www.codecademy.com/users/cartonforKids6357507640/achievements
 
 7. 
-# Education
+## Education
 - Minsk Polytechnic College : Installation and operation of industrial equipment.
 - IIT BSUIR : System engineer.
 
 8. 
-# English level 
+## English level 
 My level of English is A1.
