@@ -8,6 +8,23 @@ body {
     background-color: #fff;
 }
 
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color:  #bdb9b9;
+}
+
+ul {
+    list-style: none;
+}
+
 .header {
     display: block;
     margin: 0 auto 15px;
@@ -21,28 +38,28 @@ body {
 .content {
     display: block;
     margin: 0 auto;
-    /*text-align: center;*/
     width: 1024px;
     background-color: #ffffff;
     box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.08);
 }
 
-.content h2 {
-    padding: 20px 20px;
-}
-
-.content p {
-    padding: 20px 20px;
-}
-
 .userPicture {
     display: block;
     text-align: center;
+    padding-top: 20px;
 }
 
 .picture img {
     border-radius: 50%;
     box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.08);
+}
+
+h3 {
+    padding: 0 20px;
+}
+
+.content p {
+    padding: 15px 20px;
 }
 
 .footer {
