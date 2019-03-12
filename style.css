@@ -3,17 +3,17 @@ body {
     padding: 0;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
+    line-height: 20px;
     color: #666666;
     background-color: #fff;
 }
 
 .header {
     display: block;
-    margin: 0 auto;
-    margin-top: 0;
+    margin: 0 auto 15px;
+    padding: 10px 0;
     text-align: center;
     width: 1024px;
-    height: 60px;
     background-color: #ffffff;
     box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.08);
 }
@@ -21,14 +21,33 @@ body {
 .content {
     display: block;
     margin: 0 auto;
-    text-align: start;
+    /*text-align: center;*/
     width: 1024px;
     background-color: #ffffff;
     box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.08);
 }
 
+.content h2 {
+    padding: 20px 20px;
+}
+
+.content p {
+    padding: 20px 20px;
+}
+
+.userPicture {
+    display: block;
+    text-align: center;
+}
+
+.picture img {
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.08);
+}
+
 .footer {
     display: block;
+    padding: 10px 0;
     margin: 0 auto;
     text-align: center;
     width: 1024px;
